@@ -1,0 +1,298 @@
+1. https://pokeapi.co/api/v2/pokemon-species
+{
+    "count": 1010,
+    "next": "https://pokeapi.co/api/v2/pokemon-species?offset=20&limit=20",
+    "previous": null,
+    "results": [
+        {
+            "name": "bulbasaur",
+            "url": "https://pokeapi.co/api/v2/pokemon-species/1/"
+        },
+        {
+            "name": "ivysaur",
+            "url": "https://pokeapi.co/api/v2/pokemon-species/2/"
+        },
+        {
+            "name": "venusaur",
+            "url": "https://pokeapi.co/api/v2/pokemon-species/3/"
+        },
+        {
+            "name": "charmander",
+            "url": "https://pokeapi.co/api/v2/pokemon-species/4/"
+        },
+        {
+            "name": "charmeleon",
+            "url": "https://pokeapi.co/api/v2/pokemon-species/5/"
+        },
+        {
+            "name": "charizard",
+            "url": "https://pokeapi.co/api/v2/pokemon-species/6/"
+        },
+        {
+            "name": "squirtle",
+            "url": "https://pokeapi.co/api/v2/pokemon-species/7/"
+        },
+        {
+            "name": "wartortle",
+            "url": "https://pokeapi.co/api/v2/pokemon-species/8/"
+        },
+        {
+            "name": "blastoise",
+            "url": "https://pokeapi.co/api/v2/pokemon-species/9/"
+        },
+        {
+            "name": "caterpie",
+            "url": "https://pokeapi.co/api/v2/pokemon-species/10/"
+        },
+        {
+            "name": "metapod",
+            "url": "https://pokeapi.co/api/v2/pokemon-species/11/"
+        },
+        {
+            "name": "butterfree",
+            "url": "https://pokeapi.co/api/v2/pokemon-species/12/"
+        },
+        {
+            "name": "weedle",
+            "url": "https://pokeapi.co/api/v2/pokemon-species/13/"
+        },
+        {
+            "name": "kakuna",
+            "url": "https://pokeapi.co/api/v2/pokemon-species/14/"
+        },
+        {
+            "name": "beedrill",
+            "url": "https://pokeapi.co/api/v2/pokemon-species/15/"
+        },
+        {
+            "name": "pidgey",
+            "url": "https://pokeapi.co/api/v2/pokemon-species/16/"
+        },
+        {
+            "name": "pidgeotto",
+            "url": "https://pokeapi.co/api/v2/pokemon-species/17/"
+        },
+        {
+            "name": "pidgeot",
+            "url": "https://pokeapi.co/api/v2/pokemon-species/18/"
+        },
+        {
+            "name": "rattata",
+            "url": "https://pokeapi.co/api/v2/pokemon-species/19/"
+        },
+        {
+            "name": "raticate",
+            "url": "https://pokeapi.co/api/v2/pokemon-species/20/"
+        }
+    ]
+}
+
+2. https://pokeapi.co/api/v2/ability/
+
+{
+    "count": 358,
+    "next": "https://pokeapi.co/api/v2/ability/?offset=20&limit=20",
+    "previous": null,
+    "results": [
+        {
+            "name": "stench",
+            "url": "https://pokeapi.co/api/v2/ability/1/"
+        },
+        {
+            "name": "drizzle",
+            "url": "https://pokeapi.co/api/v2/ability/2/"
+        },
+        {
+            "name": "speed-boost",
+            "url": "https://pokeapi.co/api/v2/ability/3/"
+        },
+        {
+            "name": "battle-armor",
+            "url": "https://pokeapi.co/api/v2/ability/4/"
+        },
+        {
+            "name": "sturdy",
+            "url": "https://pokeapi.co/api/v2/ability/5/"
+        },
+        {
+            "name": "damp",
+            "url": "https://pokeapi.co/api/v2/ability/6/"
+        },
+        {
+            "name": "limber",
+            "url": "https://pokeapi.co/api/v2/ability/7/"
+        },
+        {
+            "name": "sand-veil",
+            "url": "https://pokeapi.co/api/v2/ability/8/"
+        },
+        {
+            "name": "static",
+            "url": "https://pokeapi.co/api/v2/ability/9/"
+        },
+        {
+            "name": "volt-absorb",
+            "url": "https://pokeapi.co/api/v2/ability/10/"
+        },
+        {
+            "name": "water-absorb",
+            "url": "https://pokeapi.co/api/v2/ability/11/"
+        },
+        {
+            "name": "oblivious",
+            "url": "https://pokeapi.co/api/v2/ability/12/"
+        },
+        {
+            "name": "cloud-nine",
+            "url": "https://pokeapi.co/api/v2/ability/13/"
+        },
+        {
+            "name": "compound-eyes",
+            "url": "https://pokeapi.co/api/v2/ability/14/"
+        },
+        {
+            "name": "insomnia",
+            "url": "https://pokeapi.co/api/v2/ability/15/"
+        },
+        {
+            "name": "color-change",
+            "url": "https://pokeapi.co/api/v2/ability/16/"
+        },
+        {
+            "name": "immunity",
+            "url": "https://pokeapi.co/api/v2/ability/17/"
+        },
+        {
+            "name": "flash-fire",
+            "url": "https://pokeapi.co/api/v2/ability/18/"
+        },
+        {
+            "name": "shield-dust",
+            "url": "https://pokeapi.co/api/v2/ability/19/"
+        },
+        {
+            "name": "own-tempo",
+            "url": "https://pokeapi.co/api/v2/ability/20/"
+        }
+    ]
+}
+
+3. https://pokeapi.co/api/v2/gender/
+
+{
+    "count": 3,
+    "next": null,
+    "previous": null,
+    "results": [
+        {
+            "name": "female",
+            "url": "https://pokeapi.co/api/v2/gender/1/"
+        },
+        {
+            "name": "male",
+            "url": "https://pokeapi.co/api/v2/gender/2/"
+        },
+        {
+            "name": "genderless",
+            "url": "https://pokeapi.co/api/v2/gender/3/"
+        }
+    ]
+}
+
+4.https://pokeapi.co/api/v2/pokemon-habitat/
+
+{
+    "count": 9,
+    "next": null,
+    "previous": null,
+    "results": [
+        {
+            "name": "cave",
+            "url": "https://pokeapi.co/api/v2/pokemon-habitat/1/"
+        },
+        {
+            "name": "forest",
+            "url": "https://pokeapi.co/api/v2/pokemon-habitat/2/"
+        },
+        {
+            "name": "grassland",
+            "url": "https://pokeapi.co/api/v2/pokemon-habitat/3/"
+        },
+        {
+            "name": "mountain",
+            "url": "https://pokeapi.co/api/v2/pokemon-habitat/4/"
+        },
+        {
+            "name": "rare",
+            "url": "https://pokeapi.co/api/v2/pokemon-habitat/5/"
+        },
+        {
+            "name": "rough-terrain",
+            "url": "https://pokeapi.co/api/v2/pokemon-habitat/6/"
+        },
+        {
+            "name": "sea",
+            "url": "https://pokeapi.co/api/v2/pokemon-habitat/7/"
+        },
+        {
+            "name": "urban",
+            "url": "https://pokeapi.co/api/v2/pokemon-habitat/8/"
+        },
+        {
+            "name": "waters-edge",
+            "url": "https://pokeapi.co/api/v2/pokemon-habitat/9/"
+        }
+    ]
+}
+
+5. https://pokeapi.co/api/v2/pokemon-color/
+
+{
+    "count": 10,
+    "next": null,
+    "previous": null,
+    "results": [
+        {
+            "name": "black",
+            "url": "https://pokeapi.co/api/v2/pokemon-color/1/"
+        },
+        {
+            "name": "blue",
+            "url": "https://pokeapi.co/api/v2/pokemon-color/2/"
+        },
+        {
+            "name": "brown",
+            "url": "https://pokeapi.co/api/v2/pokemon-color/3/"
+        },
+        {
+            "name": "gray",
+            "url": "https://pokeapi.co/api/v2/pokemon-color/4/"
+        },
+        {
+            "name": "green",
+            "url": "https://pokeapi.co/api/v2/pokemon-color/5/"
+        },
+        {
+            "name": "pink",
+            "url": "https://pokeapi.co/api/v2/pokemon-color/6/"
+        },
+        {
+            "name": "purple",
+            "url": "https://pokeapi.co/api/v2/pokemon-color/7/"
+        },
+        {
+            "name": "red",
+            "url": "https://pokeapi.co/api/v2/pokemon-color/8/"
+        },
+        {
+            "name": "white",
+            "url": "https://pokeapi.co/api/v2/pokemon-color/9/"
+        },
+        {
+            "name": "yellow",
+            "url": "https://pokeapi.co/api/v2/pokemon-color/10/"
+        }
+    ]
+}
+
+
